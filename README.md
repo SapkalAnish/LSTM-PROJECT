@@ -1,5 +1,5 @@
 # LSTM Text Generation – Full GenAI Project
-
+check out here :: 
 This project demonstrates an end-to-end Generative AI pipeline using a character-level LSTM model trained on Shakespeare's works.
 
 ## Contents
